@@ -13,7 +13,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     gap:2rem;
-    margin-top:2rem;
+    margin:2rem auto;
 
 }
 /* Overwrite */
@@ -29,6 +29,5 @@ body{
     object-fit: fill;
 }
 .card-body{
-    padding:0 1rem;
-    padding-bottom: 1rem;;
+    padding:0 1rem 1rem;
 }
