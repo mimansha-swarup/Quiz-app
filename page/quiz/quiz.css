@@ -1,0 +1,17 @@
+.max-width{
+    width: 100%;
+}
+.option-container{
+    display: flex;
+    flex-direction: column;
+    gap:1.5rem;
+    width:60%;
+    margin: 2rem auto;
+
+}
+.option-container .btn{
+    padding: 1rem;
+}
+.mt-2{
+    margin-top: 2rem;
+}
