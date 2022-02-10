@@ -1,0 +1,10 @@
+.rule-card{
+    border-radius: .25rem;
+    padding: 2rem 1rem;
+    width: 80%;
+}
+.rule-card .card-body{
+    display: flex;
+    flex-direction: column;
+    gap:1rem
+}
