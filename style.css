@@ -1,0 +1,5 @@
+@import url(https://sinister-ui.netlify.app/components/main.css);
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+@import url(homepage.css);
+@import url(./page/rule/rule.css);
+@import url(./page/quiz/quiz.css);
